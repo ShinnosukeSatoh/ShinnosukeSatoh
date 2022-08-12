@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/96368274/184382498-d4efb96e-4ef7-49c9-bfb2-f4b604412c6a.jpg)
+![header](https://user-images.githubusercontent.com/96368274/184452671-39d99fd9-a83f-4899-8296-8f8a42fcfa85.jpg)
 
 ### Brief Bio 😎
 
