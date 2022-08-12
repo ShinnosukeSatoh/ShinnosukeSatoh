@@ -38,6 +38,10 @@ Geophysics, and planetary physics. Icy planets and moons. Moon-plasma interactio
 ## Publications ✏️
 - Shinnosuke Satoh, Fuminori Tsuchiya, Shotaro Sakai, Rikuto Yasuda, Yasumasa, Kasaba, and Tomoki Kimura, *A Test Particle Simulation of Jovian Magnetospheric Electrons Precipitating into Europa’s Oxygen Atmosphere*, Magnetospheres of Outer Planets Meeting 2022, Liège, Belgium, July 2022 (poster) 
 
+
+## Connect with Me 📱
+
+
 ---
 
 I don't know why, but [my dad](https://researchmap.jp/tsatoh_isas) is also working in the same field.
