@@ -27,7 +27,7 @@ Geophysics, and planetary physics. Icy planets and moons. Moon-plasma interactio
 - 2022 - Tohoku University President Award
 
 
-### Special Experience
+### Special Experience 🕺🏻
 - 2021 - [「学都『仙台・宮城』サイエンス・デイ2021」に東北大学大学院理学研究科太陽惑星空間系領域として出展](http://www.science-day.com/program/?ID=e2021-785)
 - 2021 - [サイエンス・デイ オブ ザ イヤー2021 文部科学大臣賞を東北大学大学院理学研究科太陽惑星空間系領域として受賞](https://science-community.jp/サイエンス・デイ-オブ-ザ-イヤー2021（第５回）の結/)
 - 2022 - [東北大学理学部案内2023に寄稿](https://www.sci.tohoku.ac.jp/about/pdf/sci_annai2023.pdf)
