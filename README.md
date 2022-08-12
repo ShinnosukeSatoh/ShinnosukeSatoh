@@ -2,6 +2,8 @@
 
 ### Brief Bio 😎
 
+Hi, I'm Shinnosuke Satoh. Call me Shin!
+
 Since joining [Planetary Plasma and Atmospheric Research Center (PPARC)](https://pparc.gp.tohoku.ac.jp/) at Tohoku University in 2021, I have been working on studies about one of the jovian icy moons, Europa. My main target is the energy transportation to Europa through the moon-plasma interaction and the consequent physics such as the aurorae on Europa's sputtering-generated oxygen atmosphere. I received a B.S. of Geophysics (2022) together with [Tohoku University President Award (2022)](https://pparc.gp.tohoku.ac.jp/20220325_presidents_award/).
 
 I'm now working towards master’s degree at Graduate School of Science, Tohoku University.
