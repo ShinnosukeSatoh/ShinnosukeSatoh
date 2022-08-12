@@ -32,7 +32,7 @@ Geophysics, and planetary physics. Icy planets and moons. Moon-plasma interactio
 - 2021 - [サイエンス・デイ オブ ザ イヤー2021 文部科学大臣賞を東北大学大学院理学研究科太陽惑星空間系領域として受賞](https://science-community.jp/サイエンス・デイ-オブ-ザ-イヤー2021（第５回）の結/)
 - 2022 - [東北大学理学部案内2023に寄稿](https://www.sci.tohoku.ac.jp/about/pdf/sci_annai2023.pdf)
 - 2022 - 東北大学大学院理学研究科 地球物理学専攻 オープンキャンパス2022
-- 2022 - 仙台市天文台×東北大学大学院理学研究科公開サイエンス講座 2022年度第1回「ワクワク惑星探査 ～行け行け僕らの火星ローバー！～」を運営
+- 2022 - [仙台市天文台×東北大学大学院理学研究科公開サイエンス講座 2022年度第1回「ワクワク惑星探査 ～行け行け僕らの火星ローバー！～」を運営](https://www.sci.tohoku.ac.jp/mediaoffice/20220806-12227.html)
 
 
 ### Publications ✏️
