@@ -50,6 +50,7 @@ I don't know why, but [my dad](https://researchmap.jp/tsatoh_isas) is also worki
 
 <p><a href="https://www.twitter.com/99sth"><img src="https://github.com/ShinnosukeSatoh/ShinnosukeSatoh/tweet.png" width="600"></a></p>  
 
+<img src="https://github.com/ShinnosukeSatoh/ShinnosukeSatoh/blob/master/tweet.png" width="600">    
 
 <!--
 **ShinnosukeSatoh/ShinnosukeSatoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
