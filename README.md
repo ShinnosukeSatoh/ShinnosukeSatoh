@@ -48,7 +48,7 @@ I don't know why, but [my dad](https://researchmap.jp/tsatoh_isas) is also worki
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=99sth)](https://twitter.com/99sth)
 
-<p><a href="https://www.twitter.com/99sth"><img src="https://github.com/zhiiiyang/zhiiiyang/blob/master/tweet.png" width="600"></a></p>  
+<p><a href="https://www.twitter.com/99sth"><img src="https://github.com/ShinnosukeSatoh/ShinnosukeSatoh/tweet.png" width="600"></a></p>  
 
 
 <!--
