@@ -46,11 +46,6 @@ Geophysics, and planetary physics. Icy planets and moons. Moon-plasma interactio
 
 I don't know why, but [my dad](https://researchmap.jp/tsatoh_isas) is also working in the same field.
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=99sth)](https://twitter.com/99sth)
-
-<p><a href="https://www.twitter.com/99sth"><img src="https://github.com/ShinnosukeSatoh/ShinnosukeSatoh/tweet.png" width="600"></a></p>  
-
-<img src="https://github.com/ShinnosukeSatoh/ShinnosukeSatoh/blob/master/tweet.png" width="600">    
 
 <!--
 **ShinnosukeSatoh/ShinnosukeSatoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
