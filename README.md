@@ -1,10 +1,3 @@
-<div align="middle">
- 
-<p><a href="https://www.twitter.com/99sth"><img src="https://github.com/ShinnosukeSatoh/ShinnosukeSatoh/tweet.png" width="600"></a></p>  
-
-</div>
-
-
 ![header](https://user-images.githubusercontent.com/96368274/184452671-39d99fd9-a83f-4899-8296-8f8a42fcfa85.jpg)
 
 ## Brief Bio 😎
