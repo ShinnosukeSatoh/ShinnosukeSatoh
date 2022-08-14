@@ -24,7 +24,7 @@ Geophysics, and planetary physics. Icy planets and moons. Moon-plasma interactio
 - 2016 - 全英連 第55回全国高等学校生徒英作文コンテスト 入選
 - 2017 - 全英連 第56回全国高等学校生徒英作文コンテスト 入選
 - 2021 - [東北大学 青葉理学振興会 令和2年度 青葉理学振興会奨励賞](https://www.sci.tohoku.ac.jp/aoba-society/20210326-11460.html)
-- 2022 - Tohoku University President Award
+- 2022 - [Tohoku University President Award](https://pparc.gp.tohoku.ac.jp/20220325_presidents_award/).
 
 
 ## Special Experience 🕺🏻
