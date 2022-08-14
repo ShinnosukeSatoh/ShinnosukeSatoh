@@ -8,7 +8,7 @@
 </div>
 
 
-- [Test link](#brief-bio-:sunglasses:)
+- [Test link](#brief-bio-sunglasses)
 - [Test link](#research-interests)
 
 ## Brief Bio :sunglasses:
