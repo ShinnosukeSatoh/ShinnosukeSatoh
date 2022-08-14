@@ -16,7 +16,13 @@ Geophysics, and planetary physics. Icy planets and moons. Moon-plasma interactio
 
 
 ## Education 🎓
-- 2022 - B.S, Geophysics, Tohoku University
+- 2018 - Atsugi High School, Kanagawa, Japan
+- 2022 - B.S., Geophysics, Tohoku University, Miyagi, Japan
+
+
+## Societies 🤝
+- Japan Geoscience Union, 2022 - present
+- Society of Geomagnetism and Earth, Planetary and Space Sciences, 2022 - present
 
 
 ## Awards 🏆
@@ -35,7 +41,7 @@ Geophysics, and planetary physics. Icy planets and moons. Moon-plasma interactio
 - 2022 - [仙台市天文台×東北大学大学院理学研究科公開サイエンス講座 2022年度第1回「ワクワク惑星探査 ～行け行け僕らの火星ローバー！～」を運営](https://www.sci.tohoku.ac.jp/mediaoffice/20220806-12227.html)
 
 
-## Reading Lists
+## Reading Lists 📖
 
 ### Jupiter's Galilean Moons
 
@@ -47,11 +53,12 @@ Geophysics, and planetary physics. Icy planets and moons. Moon-plasma interactio
   - Plumes
 
 ## Publications ✏️
+- Shinnosuke Satoh, Fuminori Tsuchiya, Shotaro Sakai, Rikuto Yasuda, Yasumasa, Kasaba, *A Test Particle Simulation of Jovian Magnetospheric Electrons Precipitating into Europa’s Oxygen Atmosphere*, Japan Geoscience Union Meeting 2022, Chiba, Japan, May 2022 (oral) 
 - Shinnosuke Satoh, Fuminori Tsuchiya, Shotaro Sakai, Rikuto Yasuda, Yasumasa, Kasaba, and Tomoki Kimura, *A Test Particle Simulation of Jovian Magnetospheric Electrons Precipitating into Europa’s Oxygen Atmosphere*, Magnetospheres of Outer Planets Meeting 2022, Liège, Belgium, July 2022 (poster) 
 
 
 ## Connect with Me 📱
-
+Still under construction...
 
 ---
 
