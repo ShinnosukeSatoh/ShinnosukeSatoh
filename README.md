@@ -69,7 +69,7 @@ Geophysics, and planetary physics. Icy planets and moons. Moon-plasma interactio
 ### Jupiter's Galilean Moons
 
 #### [Europa](https://github.com/ShinnosukeSatoh/Europa_Reading_List/blob/master/europa_reading_list.md)
-  - Plasma Interaction and Ionosphere
+  - Moon Plasma Interaction
   - Energetic Particles
   - Atmosphere
   - Ocean-Induced Field
