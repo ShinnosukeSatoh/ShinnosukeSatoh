@@ -8,10 +8,10 @@
 </div>
 
 
-- [Test link](#brief-bio-)
+- [Test link](#brief-bio-:sunglasses:)
 - [Test link](#research-interests)
 
-## Brief Bio
+## Brief Bio :sunglasses:
 
 Hi, I'm Shinnosuke Satoh. Call me Shin!
 
