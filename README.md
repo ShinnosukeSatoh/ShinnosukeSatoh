@@ -3,13 +3,25 @@
 <div align="middle">
  
  
-[Biography](#brief-bio) :speech_balloon:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Connect me on LinkedIn][LinkedIn] :necktie:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Check out my website][Website] :link:  
+[Bio](#brief-bio-sunglasses)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Interests](#research-interests-bulb)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Education](#education-mortar_board)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Societies](#societies-handshake)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Awards](#awards-trophy)
+ 
+[Experience](#special-experience-man_dancing)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[My Lists](#reading-lists-book)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Publications](#publications-pencil2)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Connect](#connect-with-me-iphone)
 
 </div>
 
+<!--
 
-- [Test link](#brief-bio-sunglasses)
-- [Test link](#research-interests)
+- [Biography](#brief-bio-sunglasses)
+- [Research Interests](#research-interests-bulb)
+- [Education](#education-mortar_board)
+- [Societies](#societies-handshake)
+- [Awards](#awards-trophy)
+- [Special Experience](#special-experience-man_dancing)
+- [Reading Lists](#reading-lists-book)
+- [Publications](#publications-pencil2)
+- [Connect with Me](#connect-with-me-iphone)
+
+-->
 
 ## Brief Bio :sunglasses:
 
