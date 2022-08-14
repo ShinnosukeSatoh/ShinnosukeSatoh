@@ -35,6 +35,17 @@ Geophysics, and planetary physics. Icy planets and moons. Moon-plasma interactio
 - 2022 - [仙台市天文台×東北大学大学院理学研究科公開サイエンス講座 2022年度第1回「ワクワク惑星探査 ～行け行け僕らの火星ローバー！～」を運営](https://www.sci.tohoku.ac.jp/mediaoffice/20220806-12227.html)
 
 
+## Reading Lists
+
+### Jupiter's Galilean Moons
+
+#### [Europa](https://github.com/ShinnosukeSatoh/Europa_Reading_List/blob/master/europa_reading_list.md)
+  - Plasma Interaction and Ionosphere
+  - Energetic Particles
+  - Atmosphere
+  - Ocean-Induced Field
+  - Plumes
+
 ## Publications ✏️
 - Shinnosuke Satoh, Fuminori Tsuchiya, Shotaro Sakai, Rikuto Yasuda, Yasumasa, Kasaba, and Tomoki Kimura, *A Test Particle Simulation of Jovian Magnetospheric Electrons Precipitating into Europa’s Oxygen Atmosphere*, Magnetospheres of Outer Planets Meeting 2022, Liège, Belgium, July 2022 (poster) 
 
