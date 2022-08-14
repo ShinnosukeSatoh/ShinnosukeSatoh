@@ -1,23 +1,21 @@
 library(tweetrmd)
 library(rtweet)
 
-lasttweet_token <- function() {
-  create_token(
-    "rtweet_tokens_zy",
-    consumer_key = Sys.getenv("CONSUMER_KEY"),
-    consumer_secret = Sys.getenv("CONSUMER_SECRET"),
+lasttweet_token <- function(){
+  rtweet_bot(
+    api_key = Sys.getenv("CONSUMER_KEY"),
+    api_secret = Sys.getenv("CONSUMER_SECRET"),
     access_token = Sys.getenv("ACCESS_TOKEN"),
-    access_secret = Sys.getenv("ACCESS_SECRET"),
-    set_renv = FALSE
+    access_secret = Sys.getenv("ACCESS_SECRET")
   )
 }
 
-handle <- "99sth"
+handle <- "zhiiiyang"
 recent_tweets <- get_timeline(handle, n = 1, token = lasttweet_token())
 
 tmpimg <- "tweet.png"
 tweet_screenshot(
-  tweet_url(handle, recent_tweets$status_id),
+  tweet_url(handle, recent_tweets$id_str),
   scale = 5, 
   maxwidth = 600,
   theme = "dark",
