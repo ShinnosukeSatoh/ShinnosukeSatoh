@@ -3,9 +3,11 @@
 <div align="middle">
  
  
-[Bio](#brief-bio-sunglasses)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Interests](#research-interests-bulb)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Education](#education-mortar_board)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Societies](#societies-handshake)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Awards](#awards-trophy)
- 
-[Experience](#special-experience-man_dancing)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Lists](#reading-lists-book)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Publications](#publications-pencil2)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Connect](#connect-with-me-iphone)
+[Bio](#brief-bio-sunglasses)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Interests](#research-interests-bulb)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Education](#education-mortar_board)
+
+[Societies](#societies-handshake)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Awards](#awards-trophy)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Experience](#special-experience-man_dancing)
+
+[Lists](#reading-lists-book)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Publications](#publications-pencil2)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Connect](#connect-with-me-iphone)
 
 </div>
 
