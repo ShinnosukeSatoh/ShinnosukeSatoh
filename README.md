@@ -1,42 +1,6 @@
-<style>
-
-/* By default, make all images center-aligned, and 60% of the width
-of the screen in size */
-img
-{
-    display:block;
-    float:none;
-    margin-left:auto;
-    margin-right:auto;
-    width:60%;
-}
-
-/* Create a CSS class to style images to left-align, or "float left" */
-.leftAlign
-{
-    display:inline-block;
-    float:left;
-    /* provide a 15 pixel gap between the image and the text to its right */
-    margin-right:15px;
-}
-
-/* Create a CSS class to style images to right-align, or "float right" */
-.rightAlign
-{
-    display:inline-block;
-    float:right;
-    /* provide a 15 pixel gap between the image and the text to its left */
-    margin-left:15px;
-}
-
-</style>
-
-
-
 ![header](https://user-images.githubusercontent.com/96368274/184452671-39d99fd9-a83f-4899-8296-8f8a42fcfa85.jpg)
 
 <div align="middle">
- 
  
 [Bio](#brief-bio-sunglasses)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Interests](#research-interests-bulb)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Education](#education-mortar_board)
 
